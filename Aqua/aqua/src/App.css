@@ -1,0 +1,47 @@
+#App {
+  text-align: center;
+  color: white;
+}
+
+#mySidebar {
+  z-index:3;
+  width:300px;
+  font-weight:bold;
+  display: block;
+}
+
+#onHover {
+  width:100%;
+  font-size:22px;
+}
+
+#myOverlay {
+  cursor: pointer;
+  display: block;
+}
+
+#content {
+  margin-left:340px;
+  margin-right:40px;
+}
+
+#img {
+  width: 100%;
+}
+
+#underline {
+  width:50px;
+  border:5px solid blue;
+}
+
+#About_Us {
+  margin-top: 80px;
+}
+
+#services {
+  margin-top:75px;
+}
+
+#contact {
+  margin-top:75px;
+}
